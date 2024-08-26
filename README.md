@@ -21,10 +21,11 @@ I also like to tinker with AI related side projects at home. Since I have a back
 | Category | Tools and Technologies |
 | --- | --- |
 | Platforms | Windows, Linux, Android |
-| Languages | Python, Java, C++, JS |
+| Languages | Python (Proficient, Most Recent), Java (Proficient), C++ (Moderate), JS |
 | AI / Machine Learning | pytorch, pytorch-lightning, huggingface transformers, scikit-learn, pandas, plotly, matplotlib, opencv, tensorboard, llamaindex, llama.cpp, langchain |
 | MLOPs | mlflow, kubeflow |
 | DevOPs | docker, bash |
-| Data | ElasticSearch, OpenSearch, OpenSearch Dashboards, Kibana, Apache Spark, Kafka, Tableau |
+| Data | ElasticSearch (+ KQL), OpenSearch( + Query DSL), OpenSearch Dashboards, Kibana, Apache Spark, Kafka, Tableau | 
+| Security | Wazuh (manager, agent)|
 | Cloud | AWS, Azure (+ ML Studio, Notebooks), Snowflake |
 | Frameworks | Flutter, Spring Boot, Spring Cloud |
