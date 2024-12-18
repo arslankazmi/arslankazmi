@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on offline and on-premise use cases for using local open-source machine learning models
-- 🔭 Current domain: Cybersecurity
-- 🌱 I’m currently tinkering with a raspberry pi zero, and trying to push myself to learn soldering.     
+- 🔭 I’m currently working on develeping LLM-powered apps using locally deployed open-source LLMs on GPU powered VMs (mistral-nemo is my current go-to)
+- 🔭 Current domain: Cybersecurity, Sales Prediction
+- 🌱 I’m currently trying to trace and manage my llm prompts.     
 - 💬 Ask me about Image generation, Machine Learning workflows, retro video games or Bionicle
 - 📫 How to reach me: akazmi.public@gmail.com or LinkedIn: https://ca.linkedin.com/in/arslankazmi
 
@@ -16,16 +16,24 @@ I also like to tinker with AI related side projects at home. Since I have a back
 - I'm detail-oriented and consider the whole picture and long-term ramifications of anything I design or program. I like to anticipate problems and plan solutions accordingly, especially for deployment scenarios.
 - I'm hungry to learn from those who are more experienced than me, and enjoy passing on my knowledge and skills as well.
 
-## Things I can work with
+## Things I can work with[^1] 
 
 | Category | Tools and Technologies |
 | --- | --- |
 | Platforms | Windows, Linux, Android |
-| Languages | Python (Proficient, Most Recent), Java (Proficient), C++ (Moderate), JS |
-| AI / Machine Learning | pytorch, pytorch-lightning, huggingface transformers, scikit-learn, pandas, plotly, matplotlib, opencv, tensorboard, llamaindex, llama.cpp, langchain |
+| Languages | **Python (Proficient, Most Recent)**, Java (Proficient), C++ (Moderate), JS |
+| AI / Machine Learning | **pytorch**, pytorch-lightning, huggingface transformers, scikit-learn, pandas, plotly, matplotlib, opencv, tensorboard, llamaindex, llama.cpp, **langchain**, _langgraph_ |
 | MLOPs | mlflow, kubeflow |
+| LLM-OPs | _langfuse_ |
 | DevOPs | docker, bash |
 | Data | ElasticSearch (+ KQL), OpenSearch( + Query DSL), OpenSearch Dashboards, Kibana, Apache Spark, Kafka, Tableau | 
-| Security | Wazuh (manager, agent)|
+| Security | Wazuh (manager, agent) |
 | Cloud | AWS, Azure (+ ML Studio, Notebooks), Snowflake |
-| Frameworks | Flutter, Spring Boot, Spring Cloud |
+| Frameworks | _Flutter_, Spring Boot, Spring Cloud |
+
+I've used NetBeans for Java over eclipse and JetBrains IdeaJ.
+I've used Android Studio for Android App Development.
+I've used Visual Studio 2010, Visual Studio 2017, Visual Studio 2019, gcc, g++ for C/C++.
+
+
+[^1]: (**Bold** are more recent and/or relevant skills to my current work), while those in _italics_ are things I am still learning)
