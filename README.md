@@ -16,20 +16,31 @@ I also like to tinker with AI related side projects at home. Since I have a back
 - I'm detail-oriented and consider the whole picture and long-term ramifications of anything I design or program. I like to anticipate problems and plan solutions accordingly, especially for deployment scenarios.
 - I'm hungry to learn from those who are more experienced than me, and enjoy passing on my knowledge and skills as well.
 
-## Things I can work with[^1] 
+## Things I can work with now[^1] 
 
 | Category | Tools and Technologies |
 | --- | --- |
-| Platforms | Windows, Linux, Android |
-| Languages | **Python (Proficient, Most Recent)**, Java (Proficient), C++ (Moderate), JS |
+| Platforms | Windows, Linux|
+| Languages | **Python (Proficient, Most Recent)** |
 | AI / Machine Learning | **pytorch**, pytorch-lightning, huggingface transformers, scikit-learn, pandas, plotly, matplotlib, opencv, tensorboard, llamaindex, llama.cpp, **langchain**, _langgraph_ |
 | MLOPs | mlflow, kubeflow |
 | LLM-OPs | _langfuse_ |
 | DevOPs | docker, bash |
 | Data | ElasticSearch (+ KQL), OpenSearch( + Query DSL), OpenSearch Dashboards, Kibana, Apache Spark, Kafka, Tableau | 
 | Security | Wazuh (manager, agent) |
-| Cloud | AWS, Azure (+ ML Studio, Notebooks), Snowflake |
-| Frameworks | _Flutter_, Spring Boot, Spring Cloud |
+| Cloud | AWS, Azure (+ ML Studio, Notebooks)|
+| Frameworks | _Flutter_ |
+
+## Things I've worked with a while ago
+
+| Category | Tools and Technologies |
+| --- | --- |
+| Platforms | Android |
+| Languages | Java (Proficient), C++ (Moderate), JS |
+| Security | Wazuh (manager, agent) |
+| Cloud | Snowflake |
+| Frameworks | Spring Boot, Spring Cloud |
+
 
 I've used NetBeans for Java over eclipse and JetBrains IdeaJ.
 I've used Android Studio for Android App Development.
