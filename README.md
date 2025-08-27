@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on develeping LLM-powered apps using locally deployed open-source LLMs on GPU powered VMs (mistral-nemo is my current go-to)
-- 🔭 Current domain: Cybersecurity, Sales Prediction
-- 🌱 I’m currently trying to trace and manage my llm prompts.     
+- 🔭 I’m currently working on developing LLM-powered recommendation engines in a valuation SaaS product with candidate model/algorithm AB testing.
+- 🔭 Current domain: Valuations
+- 🌱 I’m currently trying to develop an personal assistant agent using local LLMs and agentic libraries.   
 - 💬 Ask me about Image generation, Machine Learning workflows, retro video games or Bionicle
 - 📫 How to reach me: akazmi.public@gmail.com or LinkedIn: https://ca.linkedin.com/in/arslankazmi
-
 
 I also like to tinker with AI related side projects at home. Since I have a background in text-to-image generation systems I've been experimenting with tools like text-generation-webui, llama.cpp, ollama, etc to run AI services locally. 
 
@@ -20,16 +19,17 @@ I also like to tinker with AI related side projects at home. Since I have a back
 
 | Category | Tools and Technologies |
 | --- | --- |
-| Platforms | Windows, Linux|
+| Platforms | Windows, Linux, macOS|
 | Languages | **Python (Proficient, Most Recent)** |
-| AI / Machine Learning | **pytorch**, pytorch-lightning, huggingface transformers, scikit-learn, pandas, plotly, matplotlib, opencv, tensorboard, llamaindex, llama.cpp, **langchain**, _langgraph_ |
+| Libraries / Tools | uv |
+| AI / Machine Learning | promptflow, openai, pytorch, tensorboard, pytorch-lightning, llamaindex, llama.cpp, langchain, langgraph, transformers, scikit-learn, pandas, plotly, matplotlib, opencv |
 | MLOPs | mlflow, kubeflow |
-| LLM-OPs | _langfuse_ |
+| LLM-OPs | langfuse |
 | DevOPs | docker, bash |
-| Data | ElasticSearch (+ KQL), OpenSearch( + Query DSL), OpenSearch Dashboards, Kibana, Apache Spark, Kafka, Tableau | 
+| Data | Snowflake, Databricks, Apache Superset | 
 | Security | Wazuh (manager, agent) |
-| Cloud | AWS, Azure (+ ML Studio, Notebooks)|
-| Frameworks | _Flutter_ |
+| Cloud | Azure (+ ML Studio, Notebooks), Azure AI Foundry, Azure OpenAI |
+| Frameworks | FastAPI |
 
 ## Things I've worked with a while ago
 
@@ -37,14 +37,24 @@ I also like to tinker with AI related side projects at home. Since I have a back
 | --- | --- |
 | Platforms | Android |
 | Languages | Java (Proficient), C++ (Moderate), JS |
+| Data | ElasticSearch (+ KQL), OpenSearch( + Query DSL), OpenSearch Dashboards, Kibana, Apache Spark, Kafka, Tableau |
 | Security | Wazuh (manager, agent) |
-| Cloud | Snowflake |
+| Cloud | AWS |
 | Frameworks | Spring Boot, Spring Cloud |
 
+## Domains I've worked in
 
-I've used NetBeans for Java over eclipse and JetBrains IdeaJ.
-I've used Android Studio for Android App Development.
-I've used Visual Studio 2010, Visual Studio 2017, Visual Studio 2019, gcc, g++ for C/C++.
+| Domain | Specifics |
+| --- | --- |
+| Cybersecurity | User and Entity Behavior Anayltics (UEBA), anomaly detection (network-based, activity/behavior based), Penetration Testing |
+| Valuations | Peer Selection, Transaction Selection |
+
+----
+
+### Asides
+- I've used NetBeans for Java over eclipse and JetBrains IdeaJ.
+- I've used Android Studio for Android App Development.
+- I've used Visual Studio 2010, Visual Studio 2017, Visual Studio 2019, gcc, g++ for C/C++.
 
 
 [^1]: (**Bold** are more recent and/or relevant skills to my current work), while those in _italics_ are things I am still learning)
