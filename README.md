@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on developing LLM-powered recommendation engines in a valuation SaaS product with candidate model/algorithm AB testing.
 - 🔭 Current domain: Valuations
-- 🌱 I’m currently trying to develop an personal assistant agent using local LLMs and agentic libraries.   
+- 🌱 I’m currently trying to develop a personal assistant agent using local LLMs and agentic libraries.   
 - 💬 Ask me about Image generation, Machine Learning workflows, retro video games or Bionicle
 - 📫 How to reach me: akazmi.public@gmail.com or LinkedIn: https://ca.linkedin.com/in/arslankazmi
 
