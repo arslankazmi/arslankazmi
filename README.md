@@ -27,7 +27,6 @@ I also like to tinker with AI related side projects at home. Since I have a back
 | LLM-OPs | langfuse |
 | DevOPs | docker, bash |
 | Data | Snowflake, Databricks, Apache Superset | 
-| Security | Wazuh (manager, agent) |
 | Cloud | Azure (+ ML Studio, Notebooks), Azure AI Foundry, Azure OpenAI |
 | Frameworks | FastAPI |
 
@@ -47,7 +46,7 @@ I also like to tinker with AI related side projects at home. Since I have a back
 | Domain | Specifics |
 | --- | --- |
 | Cybersecurity | User and Entity Behavior Anayltics (UEBA), anomaly detection (network-based, activity/behavior based), Penetration Testing |
-| Valuations | Peer Selection, Transaction Selection |
+| Valuations | Comparable Peer Company Selection, Comparable M&A Transaction Selection |
 
 ----
 
