@@ -1,7 +1,14 @@
 ## Hi, I'm Arslan 👋
-
 > Data scientist and ML/AI expert who likes wiring disparate tools, libraries, and languages
 > together until they solve something genuinely interesting.
+```python
+arslan = {
+    "role": "Data Scientist & ML/AI Expert",
+    "wires_together": ["python", "local LLMs", "agentic libs", "weird ideas"],
+    "ask_me_about": ["image generation", "ML workflows", "retro games", "Bionicle"],
+    "reach": "akazmi.public@gmail.com",
+}
+```
 
 - **Now:** building custom eval frameworks for LLMs and running finetuning experiments.
 - **Tinkering:** a personal-assistant agent on local LLMs + agentic frameworks.
@@ -11,14 +18,7 @@
 **[Project Catalog →](https://arslankazmi.github.io/portfolio/)** — a live, filterable
 showcase of my AI/ML projects. Group by topic, library, keyword, or language, right in the browser.
 
-```python
-arslan = {
-    "role": "Data Scientist & ML/AI Expert",
-    "wires_together": ["python", "local LLMs", "agentic libs", "weird ideas"],
-    "ask_me_about": ["image generation", "ML workflows", "retro games", "Bionicle"],
-    "reach": "akazmi.public@gmail.com",
-}
-```
+
 
 ### 🛠️ Stack (most-used first)
 - **Languages:** Python · Java · JavaScript · C++
