@@ -1,7 +1,7 @@
 ## Hi, I'm Arslan 👋
 
-> ML/AI engineer who likes wiring disparate tools, libraries, and languages together
-> until they solve something genuinely interesting.
+> Data scientist and ML/AI expert who likes wiring disparate tools, libraries, and languages
+> together until they solve something genuinely interesting.
 
 - **Now:** building custom eval frameworks for LLMs and running finetuning experiments.
 - **Tinkering:** a personal-assistant agent on local LLMs + agentic frameworks.
@@ -13,7 +13,7 @@ showcase of my AI/ML projects. Group by topic, library, keyword, or language, ri
 
 ```python
 arslan = {
-    "role": "AI/ML engineer",
+    "role": "Data Scientist & ML/AI Expert",
     "wires_together": ["python", "local LLMs", "agentic libs", "weird ideas"],
     "ask_me_about": ["image generation", "ML workflows", "retro games", "Bionicle"],
     "reach": "akazmi.public@gmail.com",
