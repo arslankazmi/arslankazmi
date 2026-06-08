@@ -1,59 +1,41 @@
-## Hi there 👋
+## Hi, I'm Arslan 👋
 
-- 🔭 I’m currently working on developing LLM-powered recommendation engines in a valuation SaaS product with candidate model/algorithm AB testing.
-- 🔭 Current domain: Valuations
-- 🌱 I’m currently trying to develop a personal assistant agent using local LLMs and agentic libraries.   
-- 💬 Ask me about Image generation, Machine Learning workflows, retro video games or Bionicle
-- 📫 How to reach me: akazmi.public@gmail.com or LinkedIn: https://ca.linkedin.com/in/arslankazmi
+> ML/AI engineer who likes wiring disparate tools, libraries, and languages together
+> until they solve something genuinely interesting.
 
-I also like to tinker with AI related side projects at home. Since I have a background in text-to-image generation systems I've been experimenting with tools like text-generation-webui, llama.cpp, ollama, etc to run AI services locally. 
+- **Now:** building custom eval frameworks for LLMs and running finetuning experiments.
+- **Tinkering:** a personal-assistant agent on local LLMs + agentic frameworks.
+- **From:** text-to-image generation, ML workflows, and a degree program that drilled in *when not to* ship a model, ethically.
 
-**I like getting disparate tools, libraries and languages to interact in interesting ways to build solutions to problems I find intriguing.**
+### 🔗 See my work
+**[Project Catalog →](https://arslankazmi.github.io/portfolio/)** — a live, filterable
+showcase of my AI/ML projects. Group by topic, library, keyword, or language, right in the browser.
 
-- I have a large breadth of knowledge with regards to the fundamentals of AI and deep learning models. I've studied their architectural and mathematical foundations as well
-- My unique collaborative degree program trained me to not only think of how AI solutions are created but also why and when not to do so ethically. I believe that if we do not consider the ethical implications of our products we run the risk of loosing long-term benefits in the chasing of short-term financial gain.
-- I'm detail-oriented and consider the whole picture and long-term ramifications of anything I design or program. I like to anticipate problems and plan solutions accordingly, especially for deployment scenarios.
-- I'm hungry to learn from those who are more experienced than me, and enjoy passing on my knowledge and skills as well.
+```python
+arslan = {
+    "role": "AI/ML engineer",
+    "wires_together": ["python", "local LLMs", "agentic libs", "weird ideas"],
+    "ask_me_about": ["image generation", "ML workflows", "retro games", "Bionicle"],
+    "reach": "akazmi.public@gmail.com",
+}
+```
 
-## Things I can work with now[^1] 
+### 🛠️ Stack (most-used first)
+- **Languages:** Python · Java · JavaScript · C++
+- **ML / AI:** PyTorch · Lightning · transformers · LangChain · LangGraph · LlamaIndex · llama.cpp · scikit-learn · OpenCV
+- **Ops:** MLflow · Kubeflow · Langfuse · Docker · FastAPI · uv
+- **Data & Cloud:** Snowflake · Databricks · Superset · Azure (ML Studio · AI Foundry · OpenAI)
 
-| Category | Tools and Technologies |
-| --- | --- |
-| Platforms | Windows, Linux, macOS|
-| Languages | **Python (Proficient, Most Recent)** |
-| Libraries / Tools | uv |
-| AI / Machine Learning | promptflow, openai, pytorch, tensorboard, pytorch-lightning, llamaindex, llama.cpp, langchain, langgraph, transformers, scikit-learn, pandas, plotly, matplotlib, opencv |
-| MLOPs | mlflow, kubeflow |
-| LLM-OPs | langfuse |
-| DevOPs | docker, bash |
-| Data | Snowflake, Databricks, Apache Superset | 
-| Cloud | Azure (+ ML Studio, Notebooks), Azure AI Foundry, Azure OpenAI |
-| Frameworks | FastAPI |
+### 🎯 Domains
+- **Valuations** — comparable peer & M&A transaction selection
+- **Cybersecurity** — UEBA, anomaly detection (network & behavioral), penetration testing
 
-## Things I've worked with a while ago
+<details>
+<summary>🗄️ Tools from past lives</summary>
 
-| Category | Tools and Technologies |
-| --- | --- |
-| Platforms | Android |
-| Languages | Java (Proficient), C++ (Moderate), JS |
-| Data | ElasticSearch (+ KQL), OpenSearch( + Query DSL), OpenSearch Dashboards, Kibana, Apache Spark, Kafka, Tableau |
-| Security | Wazuh (manager, agent) |
-| Cloud | AWS |
-| Frameworks | Spring Boot, Spring Cloud |
+ElasticSearch / OpenSearch · Kibana · Apache Spark · Kafka · Tableau · Spring Boot / Cloud · Wazuh · AWS · Android (Java)
+</details>
 
-## Domains I've worked in
+---
 
-| Domain | Specifics |
-| --- | --- |
-| Cybersecurity | User and Entity Behavior Anayltics (UEBA), anomaly detection (network-based, activity/behavior based), Penetration Testing |
-| Valuations | Comparable Peer Company Selection, Comparable M&A Transaction Selection |
-
-----
-
-### Asides
-- I've used NetBeans for Java over eclipse and JetBrains IdeaJ.
-- I've used Android Studio for Android App Development.
-- I've used Visual Studio 2010, Visual Studio 2017, Visual Studio 2019, gcc, g++ for C/C++.
-
-
-[^1]: (**Bold** are more recent and/or relevant skills to my current work), while those in _italics_ are things I am still learning)
+📫 **akazmi.public@gmail.com** · [LinkedIn](https://ca.linkedin.com/in/arslankazmi)
