@@ -6,7 +6,7 @@ arslan = {
     "role": "Data Scientist & ML/AI Expert",
     "wires_together": ["python", "local LLMs", "agentic libs", "weird ideas"],
     "ask_me_about": ["image generation", "ML workflows", "retro games", "Bionicle"],
-    "reach": "akazmi.public@gmail.com",
+    "reach": "akazmi.public@gmail.com, arslan.kazmi@remelda.com",
 }
 ```
 
